@@ -1,4 +1,4 @@
-# Inflection AI Cookbook
+# Unofficial Inflection AI Cookbook
 
 Examples and guides for using the [Inflection AI API](https://developers.inflection.ai/). To run these examples you'll need an Inflection AI Developers account and an API key [(sign-up and get your API key here)](https://developers.inflection.ai/login). You can login with a Google or GitHub account.
 
